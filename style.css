@@ -1,0 +1,24 @@
+.img-style{
+    width: 150px;
+    height: 150px;
+    border-radius: 16px;
+    border: solid black 2px;
+
+}
+.conteiner-img{
+ display: flex;
+ justify-content: center;
+ background-color: rgb(139, 133, 133);
+ width: 60%;
+ margin: auto;
+ padding: 20px;
+ border-radius: 16px;
+
+}
+
+body{
+
+    background-color: rgb(175, 166, 166);
+    text-align: center;
+    color: brown;
+}
